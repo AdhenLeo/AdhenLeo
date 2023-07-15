@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdhenLeo&show_icons=true&theme=tokyonight"></p>
+<p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdhenLeo&show_icons=true&theme=midnight-purple"></p>
 <p align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdhenLeo&theme=gruvbox&layout=compact"></p>
